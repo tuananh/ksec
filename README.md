@@ -2,6 +2,8 @@
 
 > kubectl create secret utility
 
+[![npm version](https://badge.fury.io/js/ksec.svg)](https://badge.fury.io/js/ksec)
+
 ![demo](./demo.png)
 
 ## Usage
