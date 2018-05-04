@@ -1,0 +1,23 @@
+{
+    "name": "ksec",
+    "version": "1.0.0",
+    "description": "kubectl create secret utility",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "ksec": "./ksec.js"
+    },
+    "keywords": [
+        "kubectl",
+        "secret"
+    ],
+    "author": "Tuan Anh Tran <me@tuananh.org> (https://tuananh.org)",
+    "license": "MIT",
+    "dependencies": {
+        "execa": "0.10.0",
+        "meow": "5.0.0",
+        "tempy": "0.2.1"
+    }
+}
