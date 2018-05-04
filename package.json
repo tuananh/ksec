@@ -1,6 +1,6 @@
 {
     "name": "ksec",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "kubectl create secret utility",
     "homepage": "https://github.com/tuananh/ksec",
     "bugs": "https://github.com/tuananh/ksec/issues",
@@ -18,6 +18,9 @@
     "keywords": [
         "kubectl",
         "secret"
+    ],
+    "files": [
+        "ksec.js"
     ],
     "author": "Tuan Anh Tran <me@tuananh.org> (https://tuananh.org)",
     "license": "MIT",
