@@ -2,6 +2,8 @@
 
 > kubectl create secret utility
 
+![demo](./demo.png)
+
 ## Usage
 
 ```sh

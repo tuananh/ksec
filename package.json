@@ -1,13 +1,19 @@
 {
     "name": "ksec",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "kubectl create secret utility",
-    "main": "index.js",
+    "homepage": "https://github.com/tuananh/ksec",
+    "bugs": "https://github.com/tuananh/ksec/issues",
+    "main": "ksec.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "bin": {
         "ksec": "./ksec.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/tuananh/ksec.git"
     },
     "keywords": [
         "kubectl",
